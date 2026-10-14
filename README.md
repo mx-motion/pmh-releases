@@ -3,6 +3,18 @@
 Les installeurs de l'app PMH, publiés automatiquement : **Mac, Windows, Linux** (app de bureau) et **Android** (téléphone).
 Télécharge la dernière version dans [« Releases »](https://github.com/mx-motion/pmh-releases/releases/latest) : la page explique quel fichier prendre et comment l'installer. Sur ordinateur, l'app se met ensuite à jour toute seule ; sur Android, elle te propose les nouvelles versions.
 
+## Nouveautés de la 0.2.7
+
+### PMH sur Android
+Une première version pour téléphone : connexion, Accueil, fil d'actualité, Quêtes, Ligue, profil et sessions. Sur téléphone, tes sessions comptent pour ta série et tes quêtes, mais pas pour la Ligue. L'app te propose elle-même les nouvelles versions.
+
+![PMH sur Android](images/0.2.7/android.jpg)
+
+### Et sur Linux
+L'app de bureau arrive sur Linux (AppImage), avec les mises à jour automatiques, comme sur Mac et Windows.
+
+![L'app de bureau sur Mac, Windows et Linux](images/0.2.7/bureau.jpg)
+
 ## Nouveautés de la 0.2.6 : avant / après
 
 ### Accueil
