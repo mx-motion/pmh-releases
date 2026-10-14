@@ -1,7 +1,7 @@
 # PMH · versions de l'app
 
-Les installeurs de l'app de bureau PMH (Mac et Windows), publiés automatiquement.
-Télécharge la dernière version dans [« Releases »](https://github.com/mx-motion/pmh-releases/releases/latest). L'app se met ensuite à jour toute seule.
+Les installeurs de l'app PMH, publiés automatiquement : **Mac, Windows, Linux** (app de bureau) et **Android** (téléphone).
+Télécharge la dernière version dans [« Releases »](https://github.com/mx-motion/pmh-releases/releases/latest) : la page explique quel fichier prendre et comment l'installer. Sur ordinateur, l'app se met ensuite à jour toute seule ; sur Android, elle te propose les nouvelles versions.
 
 ## Nouveautés de la 0.2.6 : avant / après
 
